@@ -34,6 +34,12 @@
             <button type="submit" class="btn btn-primary">Envoyer</button>
         </form>
 
+        <h5 class="font-italic text-center">Modification</h5>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam tenetur natus 
+            placeat ab error recusandae vitae, officiis ea, illo voluptatibus inventore repellat,
+            nisi ex labore. Cupiditate a saepe architecto corporis.</p>
+
+
     </div>
 </body>
 </html>
