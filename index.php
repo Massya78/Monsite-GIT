@@ -34,12 +34,21 @@
             <button type="submit" class="btn btn-primary">Envoyer</button>
         </form>
 
+        <hr class="col-md-6 max-auto bg-dark">
+
         <h5 class="font-italic text-center">Modification</h5>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam tenetur natus 
             placeat ab error recusandae vitae, officiis ea, illo voluptatibus inventore repellat,
             nisi ex labore. Cupiditate a saepe architecto corporis.</p>
 
+            <hr class="col-md-6 max-auto bg-dark">
+            <h5 class="font-italic text-center">Modification positive</h5>
 
+        <ul>
+        <li class="list-group-item">Paix et sérinité</li>
+        <li class="list-group-item">Paix et sérinité</li>
+        <li class="list-group-item">Paix et sérinité</li>
+        </ul>
     </div>
 </body>
 </html>
