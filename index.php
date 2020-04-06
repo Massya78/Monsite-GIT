@@ -7,6 +7,17 @@
     <title>Document</title>
 </head>
 <body>
-    <h1 class="col-md-8 mx-auto display-4 text-center alert alert-danger">Soyons positif!</h1>
+    <div class="container">
+        <h1 class="col-md-8 mx-auto display-4 text-center alert alert-danger">Soyons positif!</h1>
+
+        <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ab autem, quo neque alias odio, 
+        cum impedit repudiandae inventore temporibus esse illo exercitationem nobis fugit deleniti 
+        rem tempore voluptatibus id culpa.
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ab autem, quo neque alias odio, 
+        cum impedit repudiandae inventore temporibus esse illo exercitationem nobis fugit deleniti 
+        rem tempore voluptatibus id culpa</p>
+
+    </div>
 </body>
 </html>
