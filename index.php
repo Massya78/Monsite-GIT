@@ -18,6 +18,22 @@
         cum impedit repudiandae inventore temporibus esse illo exercitationem nobis fugit deleniti 
         rem tempore voluptatibus id culpa</p>
 
+            <hr class="col-md-6 max-auto bg-dark">
+
+        <h5 class="font-italic text-center">La positivité</h5>
+
+        <form method="post" class="col-md-8 mx-auto">
+            <div class="form-group">
+                <label for="email">Email</label>
+                <input type="email" class="form-control" id="email" aria-describedby="emailHelp">
+            </div>
+            <div class="form-group">
+                <label for="message">Message</label>
+                <textarea class="form-control" name="message" id="message"  rows="3"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Envoyer</button>
+        </form>
+
     </div>
 </body>
 </html>
